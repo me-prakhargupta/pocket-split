@@ -17,4 +17,4 @@
 -   **Deployment**: Vercel
 
 ## Live Demo
-[View Live Demo](https://pocketsplit-demo.vercel.app)
+[View Live Demo](https://pocketsplit-teal.vercel.app)
