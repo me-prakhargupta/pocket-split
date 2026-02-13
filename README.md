@@ -15,6 +15,3 @@
 -   **Styling**: Tailwind CSS
 -   **State Management**: React Context & Hooks
 -   **Deployment**: Vercel
-
-## Live Demo
-[View Live Demo](https://pocket-split-teal.vercel.app)
